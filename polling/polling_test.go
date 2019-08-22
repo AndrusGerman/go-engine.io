@@ -6,9 +6,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/googollee/go-engine.io/message"
-	"github.com/googollee/go-engine.io/parser"
-	"github.com/googollee/go-engine.io/transport"
+	"github.com/AndrusGerman/go-engine.io/message"
+	"github.com/AndrusGerman/go-engine.io/parser"
+	"github.com/AndrusGerman/go-engine.io/transport"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
